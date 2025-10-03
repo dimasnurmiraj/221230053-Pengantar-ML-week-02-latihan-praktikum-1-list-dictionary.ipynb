@@ -1,1 +1,1 @@
-# 221230053-Pengantar-ML-week-02-latihan-praktikum-1-list-dictionary.ipynb
+# 221230053-Pengantar-ML-week-02
